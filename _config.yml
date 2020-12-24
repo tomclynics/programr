@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Learn With Android
     description                           : Everything will done with android smartphone running version 6.0 or higher.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : gavel
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
