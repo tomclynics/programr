@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Resource Sharing
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : cloud-download
+    fontawesome_icon_name                 : download
 
   - title                                 : Priority Support
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
