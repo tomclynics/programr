@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : smile
   
   - title                                 : Easy Unterstanding
-    description                           : We know there are different level user among us, so we let you know the content difficulity with 3 levels EASI - INTERMEDIATE - ADVANCED. All contents are clean and easy to understand.
+    description                           : We know there are different level user among us, so we let you know the content difficulity with 3 levels EASY - INTERMEDIATE - ADVANCED. All contents are clean and easy to understand.
     fontawesome_icon_name                 : check
 
   - title                                 : Dark Theme
@@ -67,7 +67,7 @@ features                                  :
     fontawesome_icon_name                 : puzzle-piece
 
   - title                                 : Regular Udate
-    description                           : We always try hard to kill those bugs. If you find one, let us know.
+    description                           : We always try hard to kill those bugs. If you find one, let us know. We update regularly.
     fontawesome_icon_name                 : bug
 
   - title                                 : # New Feature Title
