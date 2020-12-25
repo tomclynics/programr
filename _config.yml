@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Minimallistic UI
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Designed for everyone, easy understanding minimal UI.
     fontawesome_icon_name                 : star
     
   - title                                 : Learn With Android
@@ -43,31 +43,31 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Worldwide Community
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : We have worldwide learner community. Lets learn together & help each other.
     fontawesome_icon_name                 : globe
 
   - title                                 : Resource Sharing
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Resource sharing section designed to distribute repositories, images, fonts and icons to all users. Currently because of zero fund this section is hidden.
     fontawesome_icon_name                 : download
 
   - title                                 : Priority Support
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : We will availabe to help you, if you need any help simply can leave a message in facebook or in app or email.
     fontawesome_icon_name                 : smile
   
   - title                                 : Easy Unterstanding
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : We know there are different level user among us, so we let you know the content difficulity with 3 levels EASI - INTERMEDIATE - ADVANCED. All contents are clean and easy to understand.
     fontawesome_icon_name                 : check
 
   - title                                 : Dark Theme
-    description                           : Display a smart app banner on iOS devices.
+    description                           : We offer Dark theme for view improvement at low light or night.
     fontawesome_icon_name                 : moon
 
   - title                                 : Online Quizzes
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : Online coding related quizzes to test your skill.
     fontawesome_icon_name                 : puzzle-piece
 
   - title                                 : Regular Udate
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description                           : We always try hard to kill those bugs. If you find one, let us know.
     fontawesome_icon_name                 : bug
 
   - title                                 : # New Feature Title
