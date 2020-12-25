@@ -40,31 +40,31 @@ features                                  :
     
   - title                                 : Learn With Android
     description                           : Everything will done with android smartphone running version 6.0 or higher.
-    fontawesome_icon_name                 : mobile-phone
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
+  - title                                 : Worldwide Community
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : globe
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Resource Sharing
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : mortar-board
+    fontawesome_icon_name                 : cloud-downloading
 
-  - title                                 : Easy to Tweak
+  - title                                 : Priority Support
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : group
+    fontawesome_icon_name                 : support
   
-  - title                                 : Feature List
+  - title                                 : Easy Unterstanding
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : puzzle-piece
+    fontawesome_icon_name                 : check
 
-  - title                                 : Smart App Banner
+  - title                                 : Dark Theme
     description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : moon-o
 
-  - title                                 : Social Links
+  - title                                 : Online Quizzes
     description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : puzzle-piece
 
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
