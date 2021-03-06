@@ -34,47 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Minimallistic UI
-    description                           : Designed for everyone, easy understanding minimal UI.
-    fontawesome_icon_name                 : star
-    
-  - title                                 : Learn With Android
-    description                           : Everything will done with android smartphone running version 6.0 or higher.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Worldwide Community
-    description                           : We have worldwide learner community. Lets learn together & help each other.
-    fontawesome_icon_name                 : globe
-
-  - title                                 : Resource Sharing
-    description                           : Resource sharing section designed to distribute repositories, images, fonts and icons to all users. Currently because of zero fund this section is hidden.
-    fontawesome_icon_name                 : download
-
-  - title                                 : Priority Support
-    description                           : We will availabe to help you, if you need any help simply can leave a message in facebook or in app or email.
-    fontawesome_icon_name                 : smile
-  
-  - title                                 : Easy Unterstanding
-    description                           : We know there are different level user among us, so we let you know the content difficulity with 3 levels EASY - INTERMEDIATE - ADVANCED. All contents are clean and easy to understand.
-    fontawesome_icon_name                 : check
-
-  - title                                 : Dark Theme
-    description                           : We offer Dark theme for view improvement at low light or night.
-    fontawesome_icon_name                 : moon
-
-  - title                                 : Online Quizzes
-    description                           : Online coding related quizzes to test your skill.
-    fontawesome_icon_name                 : puzzle-piece
-
-  - title                                 : Regular Udate
-    description                           : We always try hard to kill those bugs. If you find one, let us know. We update regularly.
-    fontawesome_icon_name                 : bug
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
+ 
 
 # Theme Settings
 topbar_color                              : "#000000"
