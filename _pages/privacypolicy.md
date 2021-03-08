@@ -147,5 +147,5 @@ March 08, 2021
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="www.programr.cf" rel="external nofollow noopener" target="_blank">www.programr.cf</a></li>
+<li>By visiting our facebook page fb.com/programr.android</li>
 </ul>
